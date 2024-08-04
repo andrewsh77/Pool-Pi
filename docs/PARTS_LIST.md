@@ -14,6 +14,7 @@ This list reflects the parts that I used for my specific installation, not exact
 | Buck Boost Converter | DZS Elec | LM2596 DC-DC HW-411 | 1 |
 | TTL to RS485 Adapter | LC Electronics | 2046l | 1 |
 | 1K Resistor | NA | NA | 1 |
+| 4-pole 5mm pitch connector | Phoenix | 091-372 | 1 |
 
 The BOM for the PCB is shown below. This replaces the off the shelf power and communication adapter boards.
 
@@ -37,3 +38,4 @@ The BOM for the PCB is shown below. This replaces the off the shelf power and co
 | 47K Resistor | Vishay | CCF0747K0JKE36 | 1 |
 | 5V Voltage Regulator | Texas Instruments | LM2596S-5.0/NOPB  | 1 |
 | RS-485 Interface | Maxim | MAX485EPA+ | 1 |
+| 4-pole 5mm pitch connector | Phoenix | 091-372 | 1 |
